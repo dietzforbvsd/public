@@ -9,4 +9,4 @@ type: "widget_page"  # Page type is a Widget Page
 
 ### [Kansas Families for Education PAC](https://www.fundourpublicschools.com/)
 
-[![Kansas Families for Education PAC](/img/KFE_PAC_LOGO.JPG){:height="50%" width="50%"}](https://www.fundourpublicschools.com/)
+[![Kansas Families for Education PAC](/img/KFE_PAC_LOGO.JPG)](https://www.fundourpublicschools.com/)

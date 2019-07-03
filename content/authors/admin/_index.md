@@ -45,6 +45,7 @@ in plans for the future.
 * B.S. Criminal Justice, University of Nebraska
 * Initiated Provider Monitor program, 10th Judicial District Court, Kansas
 * Former Probation Officer in Johnson County, with experience in the mental health and substance abuse areas
+* Appointed to Overland Park community development block grant advisory committee
 
 
 ***
