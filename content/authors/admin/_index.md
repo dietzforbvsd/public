@@ -7,7 +7,7 @@ name: Jodie Dietz
 organizations:
 - name: 
   url: ""
-role: Jodie Dietz for Blue Valley Schools
+role: Jodie Dietz for Blue Valley School Board
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,7 @@ in plans for the future.
 ***
 
 ## <span style="color:red">**PROVEN LEADERSHIP**</span>
-* PTO President, Aubry Bend Middle School(2012-13)
+* PTO President, Aubry Bend Middle School (2012-13)
 * PTO President, Blue Valley Southwest (2018-19)
 * Blue Valley Curriculum & Instruction and Student Services committee member
 * Friends of the Johnson County Library Board Member
