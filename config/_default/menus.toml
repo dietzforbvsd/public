@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "About"
+  url = "#aboutme"
   weight = 10
 
 [[main]]
@@ -16,12 +16,12 @@
 [[main]]
   name = "Donate"  # Title of the link.
   url = "#donate"  # Widget Page folder name.
-  weight = 40  # Position of the link in the navigation bar.
+  weight = 60  # Position of the link in the navigation bar.
 
 [[main]]
   name = "Endorsements"
   url = "#endorsements"
-  weight = 50
+  weight = 40
 
 
 

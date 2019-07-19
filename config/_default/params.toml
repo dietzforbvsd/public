@@ -50,7 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "DietzforBVSD@gmail.com"
+email = "bradsjue@gmail.com"
+ # email = "DietzforBVSD@gmail.com"
 phone = ""
 address = "Overland Park, KS"
 
