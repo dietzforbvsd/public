@@ -41,4 +41,6 @@ Jodie Dietz for Blue Valley School Board
 
 ## General Election November 5th
 
+[Johnson County Public Policy Council speaking with Jodie - video link](https://www.youtube.com/watch?v=CNqhgeCKt68)
+
 [Blue Valley District Map](https://district.bluevalleyk12.org/SchoolInfo/Pages/BOUNDARIES.aspx)
