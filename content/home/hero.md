@@ -35,12 +35,13 @@ hero_media = "JodieDietz.jpg"
 #   Remove a link/note by deleting a cta/note block.
 +++
 
-Jodie Dietz for Blue Valley School Board
+* General Election November 5th - [Blue Valley District Map](https://district.bluevalleyk12.org/SchoolInfo/Pages/BOUNDARIES.aspx)
+* [Jodie Candidate Interview Video](https://www.youtube.com/watch?v=CNqhgeCKt68)
 
-## Primary Election August 6th
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDietzforBVSD%2Fposts%2F721384251605199&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-## General Election November 5th
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDietzforBVSD%2Fposts%2F721361398274151&width=500" width="500" height="708" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-[Johnson County Public Policy Council speaking with Jodie - video link](https://www.youtube.com/watch?v=CNqhgeCKt68)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDietzforBVSD%2Fposts%2F720362245040733&width=500" width="500" height="653" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-[Blue Valley District Map](https://district.bluevalleyk12.org/SchoolInfo/Pages/BOUNDARIES.aspx)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDietzforBVSD%2Fposts%2F718966445180313&width=500" width="500" height="614" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
