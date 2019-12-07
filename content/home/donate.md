@@ -19,4 +19,5 @@ type: "widget_page"  # Page type is a Widget Page
 
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 
+Paid for by Dietz for BVSD, Peggy Miles, Treasurer
 </form>
